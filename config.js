@@ -54,15 +54,15 @@ global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.pdana = '6285607835238' //Nomor dana atay gooay kalian
 global.povo = '6285607835238' 
 global.pgopay = '6285607835238'
-global.ppulsa = '6285607835238' // Indosat : kalau gada diganti tanda - aja
-global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
+global.ppulsa = ''6283144056614' // Axis : kalau gada diganti tanda - aja
+global.ppulsa2 = '-' // Axis : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285607835238'
-global.nomorown = '6285607835238' // nomor owner
-global.namebot = 'Lala BOT'
-global.nameown = '乙モれ. ㉺'
+global.nomorbot = ''6283144056614'
+global.nomorown = ''6283144056614' // nomor owner
+global.namebot = 'polina BOT'
+global.nameown = 'polina'
 
 
 /*============== STAFF ==============*/
