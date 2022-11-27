@@ -59,15 +59,15 @@ global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285607835238'
-global.nomorown = '6285607835238' // nomor owner
-global.namebot = 'Lala BOT'
-global.nameown = '乙モれ. ㉺'
+global.nomorbot = '6283144056614'
+global.nomorown = '6283144056614' // nomor owner
+global.namebot = 'polina BOT'
+global.nameown = '♤POLINA♡'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285607835238', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['6283144056614', 'polina', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ['6285752235008', 'Developer Bot', true] //Jangan di Ganti🚫
   ]
 global.mods = [] // Want some help?
